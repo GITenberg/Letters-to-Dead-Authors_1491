@@ -1,5 +1,5 @@
 _repo: Letters-to-Dead-Authors_1491
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Literature -- History and criticism'
 - !lcsh 'Authors -- Biography'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: To W.M. Thackeray -- To Charles Dickens -- To Piere de Ronsard --
   To Herodotus -- Epistle to Mr. Alexander Pope -- To Lucian of Samosata -- To Maître
   Françoys Rabelais -- To Jane Austen -- To Master Isaak Walton -- To M. Chapelain
